@@ -41,7 +41,7 @@
     "@docusaurus/utils": "2.0.0-beta.9",
     "clsx": "^1.1.1",
     "color": "^4.0.1",
-    "esbuild-loader": "2.13.1",
+    "esbuild-loader": "2.16.0",
     "hast-util-is-element": "1.1.0",
     "netlify-plugin-cache": "^1.0.3",
     "npm-to-yarn": "^1.0.0-2",

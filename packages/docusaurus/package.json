@@ -108,7 +108,7 @@
     "rtl-detect": "^1.0.4",
     "semver": "^7.3.4",
     "serve-handler": "^6.1.3",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "std-env": "^2.2.1",
     "strip-ansi": "^6.0.0",
     "terser-webpack-plugin": "^5.2.4",
